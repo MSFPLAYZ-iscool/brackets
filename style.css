@@ -1,0 +1,13 @@
+.hobb {
+    width: 150px;
+    height: 150px;
+    border-radius: 70px;
+    padding-top: 70px;
+}
+
+body {
+    text-align: center;
+    color: #000000;
+    background-color: #3bf1d3;
+     
+}
